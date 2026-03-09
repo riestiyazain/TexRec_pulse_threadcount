@@ -15,7 +15,7 @@ This repository provides MATLAB scripts for extracting thread counts and perform
   - Includes silhouette and elbow methods for cluster evaluation.
 
 ## Folder Structure
-- `images/` — Contains image patches and subfolders for different fragments. Link to the TexRec patches and STRESS images will be updated. 
+- `images/` — Contains image patches and subfolders for different fragments. Send email to riestiya.z.fadillah@ntnu.no for dataset access. 
 - MATLAB scripts:
   - `ExtractingThreadcountsAll.m` (main workflow)
   - Supporting scripts for thread counting, clustering, and visualization.
